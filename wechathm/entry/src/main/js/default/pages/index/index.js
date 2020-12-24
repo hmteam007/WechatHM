@@ -22,7 +22,7 @@ export default {
         tabList: [{
                       'name': '消息',
                       'index': 0,
-                      'src': '/common/tab_items/message_normal.png',
+                      'src': '/common/tab_items/message_selected.png',
                       'textColor': '#00ffa0',
                   }, {
                       'name': '通讯录',
@@ -47,18 +47,15 @@ export default {
         this.title = this.$t('strings.world');
     },
     change(e) {
-        this.index = e.index;
-        console.log("index : " + this.index);
-    },
-    tabItemClick(idx) {
-        console.log("tabItemClick : " + idx);
+        console.log("e.index : " + e.index);
         for (var i = 0; i < this.tabList.length; i++) {
-            if (this.tabList[i].index == idx) {
+            if (this.tabList[i].index == e.index) {
                 this.tabList[i].src = this.imageList[i].selected_src
             } else {
                 this.tabList[i].src = this.imageList[i].normal_src
             }
         }
-        this.index = idx;
+        this.index = e.index;
+        console.log("index : " + this.index);
     },
 }
