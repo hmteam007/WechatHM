@@ -1,0 +1,9 @@
+<element src="../find/item/find_item.hml"></element>
+<div class="container">
+    <list class="list-style">
+        <list-item class="list-item" for="{{items}}">
+            <find_item class="find-item" name="{{$item.name}}" index="{{$item.index}}" src="{{$item.src}}"
+                    type="{{$item.type}}" right-icon="/common/arrow-right.png"></find_item>
+        </list-item>
+    </list>
+</div>

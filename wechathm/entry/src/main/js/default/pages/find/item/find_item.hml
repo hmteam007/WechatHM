@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="divider" if="{{type == 'divider'}}"></div>
+    <div class="content" if="{{type == 'content'}}">
+        <image class="image" src="{{src}}"></image>
+        <text class="name">
+            {{name}}
+        </text>
+        <div class="right_menu">
+            <image class="arrow" src="{{rightIcon}}"></image>
+        </div>
+    </div>
+
+</div>

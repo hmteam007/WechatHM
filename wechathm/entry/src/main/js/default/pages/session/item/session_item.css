@@ -1,0 +1,39 @@
+.todo_child_view{
+    width: 100%;
+    height: 200px;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.todo_img{
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+}
+.todo_container{
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.todo-title {
+    font-size: 18px;
+    color: black;
+    width: 454px;
+    height: 40px;
+    text-align: left;
+}
+.todo-msg {
+    font-size: 17px;
+    color: black;
+    width: 454px;
+    height: 40px;
+    text-align: left;
+}
+.todo-date {
+    color: black;
+    font-size: 17px;
+    width: 150px;
+    height: 40px;
+    text-align: right;
+    right: 80px;
+}
