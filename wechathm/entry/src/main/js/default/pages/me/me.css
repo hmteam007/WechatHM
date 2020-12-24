@@ -1,0 +1,59 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.list-style {
+    width: 100%;
+}
+
+.list-item {
+    width: 100%;
+}
+
+.find-item {
+    width: 100%;
+}
+
+.head-style {
+    width: 100%;
+    height: 220px;
+    flex-direction: row;
+}
+
+.head-img-style {
+    margin: 36px;
+    width: 120px;
+    height: 120px;
+}
+
+.user-info-style {
+    margin-top: 36px;
+    margin-bottom: 36px;
+    margin-right: 36px;
+    flex-direction: column;
+}
+
+.qrcode-style {
+    width: 36px;
+    height: 36px;
+    margin-left: 16px;
+    margin-right: 16px;
+    align-content: flex-end;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.arrow-style {
+    width: 28px;
+    height: 28px;
+    align-content: flex-end;
+    align-items: center;
+    margin-right: 16px;
+}

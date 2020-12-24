@@ -6,8 +6,7 @@
             {{name}}
         </text>
         <div class="right_menu">
-            <image class="arrow" src="{{rightIcon}}"></image>
+            <image class="arrow" src="{{arrow}}"></image>
         </div>
     </div>
-
 </div>

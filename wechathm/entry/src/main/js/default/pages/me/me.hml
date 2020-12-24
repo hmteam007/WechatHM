@@ -1,0 +1,26 @@
+<element src="../../global/item/find_item.hml"></element>
+<div class="container">
+    <div class="head-style">
+        <image class="head-img-style" src="../../common/headers/header0.jpg"></image>
+        <div class="user-info-style">
+            <text class="user-name-style">
+                特不靠谱
+            </text>
+            <div class="user-detail-style">
+                <div style="flex: 1;">
+                    <text class="wechatno-style">
+                        微信号 : {{wechatNo}}
+                    </text>
+                    <image class="qrcode-style" src="{{qrcodeSrc}}"></image>
+                </div>
+                <image class="arrow-style" src="{{arrowSrc}}"></image>
+            </div>
+        </div>
+    </div>
+    <list class="list-style">
+        <list-item class="list-item" for="{{items}}">
+            <find_item class="find-item" name="{{$item.name}}" index="{{$item.index}}" src="{{$item.src}}"
+                    type="{{$item.type}}" arrow="/common/global/arrow-right.png"></find_item>
+        </list-item>
+    </list>
+</div>

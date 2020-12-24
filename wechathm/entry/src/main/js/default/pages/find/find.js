@@ -1,11 +1,10 @@
-
 export default {
     data: {
         title: 'World',
         items: [{
                     'name': '朋友圈',
                     'index': 0,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/朋友圈.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -15,7 +14,7 @@ export default {
                 }, {
                     'name': '视频号',
                     'index': 1,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/视频.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -25,12 +24,12 @@ export default {
                 }, {
                     'name': '扫一扫',
                     'index': 2,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/扫一扫.png',
                     'type': 'content',
                 }, {
                     'name': '摇一摇',
                     'index': 3,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/摇一摇.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -40,12 +39,12 @@ export default {
                 }, {
                     'name': '看一看',
                     'index': 4,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/看一看.png',
                     'type': 'content',
                 }, {
                     'name': '搜一搜',
                     'index': 5,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/搜一搜.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -55,7 +54,7 @@ export default {
                 }, {
                     'name': '附近的人',
                     'index': 6,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/附近的人.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -65,12 +64,12 @@ export default {
                 }, {
                     'name': '购物',
                     'index': 7,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/购物.png',
                     'type': 'content',
                 }, {
                     'name': '游戏',
                     'index': 8,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/游戏机.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -80,7 +79,7 @@ export default {
                 }, {
                     'name': '小程序',
                     'index': 9,
-                    'src': '/common/message_selected.png',
+                    'src': '/common/find/小程序.png',
                     'type': 'content',
                 }, {
                     'name': '',
@@ -88,7 +87,5 @@ export default {
                     'src': '',
                     'type': 'divider',
                 },],
-
     },
-
 }

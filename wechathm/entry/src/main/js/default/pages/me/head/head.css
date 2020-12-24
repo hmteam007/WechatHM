@@ -1,0 +1,50 @@
+.head-style {
+    width: 100%;
+    flex-direction: row;
+}
+
+.head-img-style {
+    margin: 36px;
+    width: 120px;
+    height: 120px;
+}
+
+.user-info-style {
+    margin-top: 36px;
+    margin-bottom: 36px;
+    margin-right: 36px;
+    flex-direction: column;
+}
+
+.user-detail-style{
+
+}
+
+.user-name-style {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000222;
+}
+
+.wechatno-style{
+    font-size: 22px;
+    color: #000222;
+}
+
+.qrcode-style {
+    width: 36px;
+    height: 36px;
+    margin-left: 16px;
+    margin-right: 16px;
+    align-content: flex-end;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.arrow-style {
+    width: 28px;
+    height: 28px;
+    align-content: flex-end;
+    align-items: center;
+    margin-right: 16px;
+}

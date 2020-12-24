@@ -4,6 +4,6 @@ export default {
         index: 0,
         src: '',
         type: '',
-        rightIcon: '/common/arrow-right.png'
+        arrow: '/common/find/arrow-right.png'
     },
 }
