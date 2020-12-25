@@ -6,6 +6,8 @@ export default {
         name: "",
         msg: '',
         date: "",
-        url: ""
+        url: "",
+        msgFlag: false,
+        dataFlag: false
     }
 }

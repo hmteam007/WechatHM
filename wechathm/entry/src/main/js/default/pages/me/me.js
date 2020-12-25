@@ -1,7 +1,7 @@
 export default {
     data: {
         title: 'World',
-        wechatNo: 'chenjy2015131',
+        wechatNo: '12312321312312',
         arrowSrc: '/common/global/arrow-right.png',
         qrcodeSrc: '/common/global/qr_code.png',
         items: [{

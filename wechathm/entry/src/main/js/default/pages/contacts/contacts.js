@@ -8,181 +8,241 @@ export default {
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:39",
-                       url:"/common/headers/header0.jpg"
+                       url:"/common/headers/header0.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 2,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:38",
-                       url: "/common/headers/header1.jpg"
+                       url: "/common/headers/header1.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 3,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:37",
-                       url: "/common/headers/header2.jpg"
+                       url: "/common/headers/header2.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 4,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:36",
-                       url: "/common/headers/header3.jpg"
+                       url: "/common/headers/header3.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 5,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:35",
-                       url: "/common/headers/header4.jpg"
+                       url: "/common/headers/header4.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 6,
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:24",
-                       url: "/common/headers/header5.jpg"
+                       url: "/common/headers/header5.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 7,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:33",
-                       url: "/common/headers/header6.jpg"
+                       url: "/common/headers/header6.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 8,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:32",
-                       url: "/common/headers/header7.jpg"
+                       url: "/common/headers/header7.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 9,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:31",
-                       url: "/common/headers/header8.jpg"
+                       url: "/common/headers/header8.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 10,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:30",
-                       url: "/common/headers/header9.jpg"
+                       url: "/common/headers/header9.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 11,
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:29",
-                       url: "/common/headers/header10.jpg"
+                       url: "/common/headers/header10.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 12,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:28",
-                       url: "/common/headers/header0.jpg"
+                       url: "/common/headers/header0.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 13,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:27",
-                       url: "/common/headers/header1.jpg"
+                       url: "/common/headers/header1.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 14,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:26",
-                       url: "/common/headers/header2.jpg"
+                       url: "/common/headers/header2.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 15,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:25",
-                       url: "/common/headers/header3.jpg"
+                       url: "/common/headers/header3.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 16,
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:24",
-                       url: "/common/headers/header4.jpg"
+                       url: "/common/headers/header4.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 17,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:23",
-                       url: "/common/headers/header5.jpg"
+                       url: "/common/headers/header5.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 18,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:22",
-                       url: "/common/headers/header6.jpg"
+                       url: "/common/headers/header6.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 19,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:21",
-                       url: "/common/headers/header7.jpg"
+                       url: "/common/headers/header7.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 20,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:20",
-                       url: "/common/headers/header8.jpg"
+                       url: "/common/headers/header8.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 21,
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:19",
-                       url: "/common/headers/header9.jpg"
+                       url: "/common/headers/header9.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 22,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:18",
-                       url: "/common/headers/header10.jpg"
+                       url: "/common/headers/header10.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 23,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:17",
-                       url: "/common/headers/header0.jpg"
+                       url: "/common/headers/header0.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 24,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:16",
-                       url: "/common/headers/header1.jpg"
+                       url: "/common/headers/header1.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 25,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:15",
-                       url: "/common/headers/header2.jpg"
+                       url: "/common/headers/header2.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 26,
                        name: '张三',
                        msg: '今晚打老虎',
                        date: "12:14",
-                       url: "/common/headers/header3.jpg"
+                       url: "/common/headers/header3.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 27,
                        name: '李四',
                        msg: '今晚打车轮',
                        date: "12:13",
-                       url: "/common/headers/header4.jpg"
+                       url: "/common/headers/header4.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 28,
                        name: '王五',
                        msg: '今晚打飞机',
                        date: "12:12",
-                       url: "/common/headers/header5.jpg"
+                       url: "/common/headers/header5.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 29,
                        name: '周星星',
                        msg: '今晚打炮',
                        date: "12:11",
-                       url: "/common/headers/header6.jpg"
+                       url: "/common/headers/header6.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    }, {
                        id: 30,
                        name: '王二',
                        msg: '今晚打车轮',
                        date: "12:10",
-                       url: "/common/headers/header7.jpg"
+                       url: "/common/headers/header7.jpg",
+                       msgFlag: false,
+                       dataFlag: false
                    },
         ],
     },

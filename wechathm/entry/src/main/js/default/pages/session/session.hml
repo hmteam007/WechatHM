@@ -1,9 +1,9 @@
-<element src="../session/item/session_item.hml"></element>
+<element src="../../global/session_item/session_item.hml"></element>
 <div class="container">
     <list class="todo-wraper">
         <list-item for="{{todolist}}" class="todo-item" onclick="clickAction({{$item}})">
             <session_item id="{{$item.id}}" name="{{$item.name}}" msg="{{$item.msg}}" date="{{$item.date}}"
-                    url="{{$item.url}}"></session_item>
+                    url="{{$item.url}}"   msgFlag="{{$item.msgFlag}}" dataFlag="{{$item.dataFlag}}"></session_item>
         </list-item>
     </list>
 </div>

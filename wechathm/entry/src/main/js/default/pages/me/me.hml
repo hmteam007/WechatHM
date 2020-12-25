@@ -4,7 +4,7 @@
         <image class="head-img-style" src="../../common/headers/header0.jpg"></image>
         <div class="user-info-style">
             <text class="user-name-style">
-                特不靠谱
+                张三
             </text>
             <div class="user-detail-style">
                 <div style="flex: 1;">
