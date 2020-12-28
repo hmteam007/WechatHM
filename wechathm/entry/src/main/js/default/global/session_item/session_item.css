@@ -17,13 +17,13 @@
 
 .todo-msg {
     font-size: 18px;
-    color: black;
+    color: white;
     width: 454px;
     height: 40px;
     text-align: left;
 }
 .todo-date {
-    color: black;
+    color: white;
     font-size: 18px;
     width: 150px;
     height: 40px;
